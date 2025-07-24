@@ -49,14 +49,5 @@ You can download the dataset from the [Kaggle competition page](https://www.kagg
 
 ---
 
-## 📌 Future Improvements
-
-- Try different models: Random Forest, XGBoost, Decision Trees
-- Hyperparameter tuning using GridSearchCV
-- Feature engineering: Titles from names, family size, cabin deck, etc.
-- Cross-validation for better performance estimates
-
----
-
 
 
