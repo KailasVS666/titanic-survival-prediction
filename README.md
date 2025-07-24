@@ -49,5 +49,7 @@ You can download the dataset from the [Kaggle competition page](https://www.kagg
 
 ---
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KailasVS666/titanic-survival-prediction/blob/main/titanic_survival_prediction.ipynb)
+
 
 
